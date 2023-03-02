@@ -206,6 +206,7 @@ main {
 .percentage {
   font-weight: bold;
   background: linear-gradient(to right top, #65efc9, #6cdbeb);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
